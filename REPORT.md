@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Ethan Allgood
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: None
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: REPORT.md was not visible in Solution Explorer, so I misinterpreted the "Update REPORT.md" instruction. Was able to edit on Github.
 
 ###
